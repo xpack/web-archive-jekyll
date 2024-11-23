@@ -8,6 +8,10 @@ version: 0.9.0
 
 date: 2021-03-27 13:25:00 +0200
 
+# --e-n-d-f--
+
+redirect_to: https://xpack.github.io/xpm/blog/2021/03/27/xpm-v0-9-0-released/
+
 comments: true
 
 categories:
@@ -52,7 +56,8 @@ xpm install --global xpm@{{ page.version }}
 {% include note.html content="In the current configuration,
 **npm** complains about several deprecated packages;
 until these third party packages will be updated,
-in v0.10.2 an workaround was added, by bundling the dependencies." %}
+in v0.10.2 an workaround was added, by bundling the
+dependencies." %}
 
 ## Changes
 
@@ -165,5 +170,4 @@ Continuous integration tests are done via GitHub
 
 Credit to [Shields IO](https://shields.io) for the badges.
 
-{% include important.html content="The **xpm** tool is currently _work in
-progress_ and should be used with caution." %}
+{% include important.html content="The **xpm** tool is currently _work in progress_ and should be used with caution." %}

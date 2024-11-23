@@ -6,10 +6,14 @@ summary: "Version **0.8.1** is a new release of **xpm**; it allows to install xP
 
 version: 0.8.1
 
+# --e-n-d-f--
+
 redirect_from:
   - /blog/2021/01/27/xpm-v0-8-0-released/
 
 date: 2021-01-30 21:49:00 +0200
+
+redirect_to: https://xpack.github.io/xpm/blog/2021/01/30/xpm-v0-8-1-released/
 
 comments: true
 
@@ -55,7 +59,8 @@ xpm install --global xpm@{{ page.version }}
 {% include note.html content="In the current configuration,
 **npm** complains about several deprecated packages;
 until these third party packages will be updated,
-in v0.10.2 an workaround was added, by bundling the dependencies." %}
+in v0.10.2 an workaround was added, by bundling the
+dependencies." %}
 
 ## Changes
 
@@ -171,5 +176,4 @@ Continuous integration tests are done via GitHub
 
 Credit to [Shields IO](https://shields.io) for the badges.
 
-{% include important.html content="The **xpm** tool is currently _work in
-progress_ and should be used with caution." %}
+{% include important.html content="The **xpm** tool is currently _work in progress_ and should be used with caution." %}
