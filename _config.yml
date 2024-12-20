@@ -14,7 +14,7 @@ repository: xpack/web-archive-jekyll
 output: web
 
 # This appears on the top navigation bar next to the home button.
-topnav_title: The xPack Project
+topnav_title: The xPack Project (DEPRECATED!)
 
 # This appears in the html browser tab for the site title (seen mostly
 # by search engines, not users).
