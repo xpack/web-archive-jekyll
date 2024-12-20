@@ -1,13 +1,13 @@
 url: https://xpack.github.io
-# baseurl: /preview
+baseurl: /web-archive-jekyll
 
 # Default permalink used for posts.
 permalink: /blog/:year/:month/:day/:title/
 
 # Update this after editing the CSS files, to force a cache update.
-css-date: 202211092358
+css-date: 202412202113
 
-repository: xpack/xpack.github.io
+repository: xpack/web-archive-jekyll
 
 # This property is useful for conditional filtering of content that is
 # separate from the PDF.
@@ -18,7 +18,7 @@ topnav_title: The xPack Project
 
 # This appears in the html browser tab for the site title (seen mostly
 # by search engines, not users).
-site_title: The xPack Build Framework
+site_title: The xPack Build Framework (DEPRECATED)
 
 company_name: xPack Project
 
@@ -28,7 +28,8 @@ copyright_holder: Liviu Ionescu
 # If you're using Github, provide the basepath to the branch you've
 # created for reviews, following the sample here. if not, leave this
 # value blank.
-github_editme_path: xpack/web-jekyll/blob/master/
+# github_editme_path: xpack/web-jekyll/blob/master/
+github_editme_path:
 
 # If you're using disqus for comments, add the short name here.
 # If not, leave this value blank.
