@@ -12,11 +12,11 @@ date: 2019-06-20 23:11:00 +0300
 
 ---
 
-## DEPRECATED
+## DEPRECATED!
 
 The content of this site is deprecated and is preserved only for historical reasons.
 
-Please see [https://xpack.github.io](https://xpack.github.io).
+Please see [https://xpack.github.io](https://xpack.github.io) for the new content.
 
 ## Mission statement
 
