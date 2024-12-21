@@ -1,4 +1,5 @@
 ---
+
 title: "emulator"
 permalink: /tags/emulator/
 

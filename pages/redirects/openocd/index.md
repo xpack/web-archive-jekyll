@@ -1,4 +1,5 @@
 ---
+
 title: DEPRECATED > The GNU MCU Eclipse OpenOCD
 permalink: /openocd/
 

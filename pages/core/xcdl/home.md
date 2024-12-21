@@ -1,4 +1,5 @@
 ---
+
 title:  The XCDL component framework (outdated)
 permalink: /xcdl/outdated/
 

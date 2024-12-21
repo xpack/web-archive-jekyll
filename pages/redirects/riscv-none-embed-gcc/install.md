@@ -1,4 +1,5 @@
 ---
+
 title: DEPRECATED > How to install the RISC-V toolchain?
 permalink: /riscv-none-embed-gcc/install/
 

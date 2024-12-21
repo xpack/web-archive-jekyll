@@ -1,4 +1,5 @@
 ---
+
 title: Visual Studio Code xPack C/C++ Managed Build Extension
 permalink: /vscode/
 

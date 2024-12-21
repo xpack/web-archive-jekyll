@@ -1,4 +1,5 @@
 ---
+
 title: JavaScript Style Guide
 permalink: /develop/js-style-guide/
 

@@ -1,4 +1,5 @@
 ---
+
 title: The xPack Components Definitions
 permalink: /metadata/components/
 

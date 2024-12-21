@@ -1,4 +1,5 @@
 ---
+
 title: "mingw"
 permalink: /tags/mingw/
 

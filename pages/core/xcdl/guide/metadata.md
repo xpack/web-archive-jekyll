@@ -1,4 +1,5 @@
 ---
+
 title: The XCDL metadata (outdated)
 permalink: /xcdl/guide/metadata/
 

@@ -1,4 +1,5 @@
 ---
+
 title: XCDL rationals (outdated)
 permalink: /xcdl/guide/rationals/
 

@@ -1,4 +1,5 @@
 ---
+
 title: XCDL concepts (outdated)
 permalink: /xcdl/guide/concepts/
 

@@ -1,4 +1,5 @@
 ---
+
 title: XCDL remarks and criticism (outdated)
 permalink: /xcdl/criticism/xcdl/
 

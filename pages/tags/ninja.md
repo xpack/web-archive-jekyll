@@ -1,4 +1,5 @@
 ---
+
 title: "ninja"
 permalink: /tags/ninja/
 

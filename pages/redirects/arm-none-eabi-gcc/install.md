@@ -1,4 +1,5 @@
 ---
+
 title: DEPRECATED > How to install the ARM toolchain?
 permalink: /arm-none-eabi-gcc/install/
 

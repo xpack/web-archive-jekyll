@@ -1,4 +1,5 @@
 ---
+
 title: IntelliSense (the project indexer)
 permalink: /vscode/intellisense/
 

@@ -1,4 +1,5 @@
 ---
+
 title: Scratchpad (outdated)
 permalink: /xcdl/work/scratchpad/
 

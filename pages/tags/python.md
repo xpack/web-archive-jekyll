@@ -1,4 +1,5 @@
 ---
+
 title: "python"
 permalink: /tags/python/
 

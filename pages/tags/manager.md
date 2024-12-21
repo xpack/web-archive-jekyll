@@ -1,4 +1,5 @@
 ---
+
 title: "manager"
 permalink: /tags/manager/
 

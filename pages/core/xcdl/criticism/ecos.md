@@ -1,4 +1,5 @@
 ---
+
 title: eCos CDL remarks and criticism (outdated)
 permalink: /xcdl/criticism/ecos/
 

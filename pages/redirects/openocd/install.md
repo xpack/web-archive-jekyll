@@ -1,4 +1,5 @@
 ---
+
 title: DEPRECATED > How to install the OpenOCD binaries?
 permalink: /openocd/install/
 

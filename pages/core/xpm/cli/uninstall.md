@@ -1,4 +1,5 @@
 ---
+
 title: xpm uninstall
 permalink: /xpm/cli/uninstall/
 

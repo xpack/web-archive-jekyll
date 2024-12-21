@@ -1,4 +1,5 @@
 ---
+
 title: "mingw-w64"
 permalink: /tags/mingw-w64/
 

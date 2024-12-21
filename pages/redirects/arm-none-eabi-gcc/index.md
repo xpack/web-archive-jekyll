@@ -1,4 +1,5 @@
 ---
+
 title: DEPRECATED > The ARM Embedded GCC
 permalink: /arm-none-eabi-gcc/
 

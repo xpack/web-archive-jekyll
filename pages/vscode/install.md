@@ -1,4 +1,5 @@
 ---
+
 title: How to install the VS Code xPack Extension
 permalink: /vscode/install/
 

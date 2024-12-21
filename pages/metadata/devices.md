@@ -1,4 +1,5 @@
 ---
+
 title: The xPack Devices Definitions
 permalink: /metadata/devices/
 
