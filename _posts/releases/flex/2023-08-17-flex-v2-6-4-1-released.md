@@ -15,7 +15,7 @@ comments: true
 
 date: 2023-08-18 02:35:09 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/flex-xpack/blog/2023/08/17/flex-v2-6-4-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/flex-xpack/blog/2023/08/17/flex-v2-6-4-1-released/
 
 # For Jekyll releases selection.
 categories:

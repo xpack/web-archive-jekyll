@@ -23,7 +23,7 @@ tags:
   - releases
   - openocd
 
-redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2023/01/30/openocd-v0-12-0-1-released
+# redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2023/01/30/openocd-v0-12-0-1-released
 
 ---
 

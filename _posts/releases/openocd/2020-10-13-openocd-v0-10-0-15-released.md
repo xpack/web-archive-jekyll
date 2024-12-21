@@ -21,7 +21,7 @@ tags:
   - releases
   - openocd
 
-redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2020/10/13/openocd-v0-10-0-15-released
+# redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2020/10/13/openocd-v0-10-0-15-released
 
 ---
 

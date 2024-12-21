@@ -20,7 +20,7 @@ comments: true
 
 date: 2023-11-09 12:24:22 +0200
 
-redirect_to: https://xpack-dev-tools.github.io/arm-none-eabi-gcc-xpack/blog/2023/11/09/arm-none-eabi-gcc-v13-2-1-1-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/arm-none-eabi-gcc-xpack/blog/2023/11/09/arm-none-eabi-gcc-v13-2-1-1-1-released/
 
 # For Jekyll releases selection.
 categories:

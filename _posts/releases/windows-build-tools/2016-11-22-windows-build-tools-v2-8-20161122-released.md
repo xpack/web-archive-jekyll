@@ -8,7 +8,7 @@ app_name: "GNU ARM Eclipse Windows Build Tools"
 download_url: https://github.com/gnu-mcu-eclipse/windows-build-tools/releases/tag/v2.8/
 date: 2016-11-22 21:20:00 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/windows-build-tools-xpack/blog/2016/11/22/windows-build-tools-v2-8-20161122-released/
+# redirect_to: https://xpack-dev-tools.github.io/windows-build-tools-xpack/blog/2016/11/22/windows-build-tools-v2-8-20161122-released/
 
 comments: true
 

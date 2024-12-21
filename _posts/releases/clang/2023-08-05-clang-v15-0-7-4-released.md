@@ -15,7 +15,7 @@ comments: true
 
 date: 2023-08-05 13:03:33 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/clang-xpack/blog/2023/08/05/clang-v15-0-7-4-released/
+# redirect_to: https://xpack-dev-tools.github.io/clang-xpack/blog/2023/08/05/clang-v15-0-7-4-released/
 
 categories:
   - releases

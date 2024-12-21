@@ -15,7 +15,7 @@ comments: true
 
 date: 2023-08-17 21:50:50 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/bison-xpack/blog/2023/08/17/bison-v3-8-2-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/bison-xpack/blog/2023/08/17/bison-v3-8-2-1-released/
 
 # For Jekyll releases selection.
 categories:

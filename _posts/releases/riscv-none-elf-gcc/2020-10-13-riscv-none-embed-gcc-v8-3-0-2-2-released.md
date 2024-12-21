@@ -25,7 +25,7 @@ tags:
   - binaries
   - c++
 
-redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2020/10/13/riscv-none-embed-gcc-v8-3-0-2-2-released
+# redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2020/10/13/riscv-none-embed-gcc-v8-3-0-2-2-released
 
 ---
 

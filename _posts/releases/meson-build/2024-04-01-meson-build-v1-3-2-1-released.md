@@ -17,7 +17,7 @@ comments: true
 
 date: 2024-04-01 11:57:25 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/meson-build-xpack/blog/2024/04/01/meson-build-v1-3-2-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/meson-build-xpack/blog/2024/04/01/meson-build-v1-3-2-1-released/
 
 # For Jekyll releases selection.
 categories:

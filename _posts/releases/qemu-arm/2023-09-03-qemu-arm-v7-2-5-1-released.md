@@ -17,7 +17,7 @@ comments: true
 
 date: 2023-09-03 09:04:10 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/qemu-arm-xpack/blog/2023/09/03/qemu-arm-v7-2-5-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/qemu-arm-xpack/blog/2023/09/03/qemu-arm-v7-2-5-1-released/
 
 categories:
   - releases

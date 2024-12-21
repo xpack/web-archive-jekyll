@@ -15,7 +15,7 @@ comments: true
 
 date: 2024-04-02 09:21:38 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/cmake-xpack/blog/2024/04/02/cmake-v3-27-9-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/cmake-xpack/blog/2024/04/02/cmake-v3-27-9-1-released/
 
 # For Jekyll releases selection.
 categories:

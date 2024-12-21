@@ -24,7 +24,7 @@ tags:
   - releases
   - openocd
 
-redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2022/03/25/openocd-v0-11-0-4-released
+# redirect_to: https://xpack-dev-tools.github.io/openocd-xpack/blog/2022/03/25/openocd-v0-11-0-4-released
 
 ---
 

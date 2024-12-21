@@ -10,7 +10,7 @@ date: 2021-03-28 23:15:00 +0300
 
 # --e-n-d-f--
 
-redirect_to: https://xpack.github.io/xpm/blog/2021/03/28/xpm-v0-9-1-released/
+# redirect_to: https://xpack.github.io/xpm/blog/2021/03/28/xpm-v0-9-1-released/
 
 comments: true
 

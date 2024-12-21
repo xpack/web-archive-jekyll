@@ -32,7 +32,7 @@ tags:
   - binaries
   - c++
 
-redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2024/07/26/riscv-none-elf-gcc-v12-4-0-1-released
+# redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2024/07/26/riscv-none-elf-gcc-v12-4-0-1-released
 
 ---
 

@@ -15,7 +15,7 @@ comments: true
 
 date: 2023-09-05 21:27:29 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/patchelf-xpack/blog/2023/09/05/patchelf-v0-18-0-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/patchelf-xpack/blog/2023/09/05/patchelf-v0-18-0-1-released/
 
 # For Jekyll releases selection.
 categories:

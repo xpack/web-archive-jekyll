@@ -20,7 +20,7 @@ comments: true
 
 date: 2024-06-28 12:05:06 +0300
 
-redirect_to: https://xpack-dev-tools.github.io/mingw-w64-gcc-xpack/blog/2024/06/28/mingw-w64-gcc-v13-3-0-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/mingw-w64-gcc-xpack/blog/2024/06/28/mingw-w64-gcc-v13-3-0-1-released/
 
 # For Jekyll releases selection.
 categories:

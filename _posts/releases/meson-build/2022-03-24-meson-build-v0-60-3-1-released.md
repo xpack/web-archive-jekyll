@@ -15,7 +15,7 @@ download_url: https://github.com/xpack-dev-tools/meson-build-xpack/releases/tag/
 
 date: 2022-03-24 22:56:39 +0200
 
-redirect_to: https://xpack-dev-tools.github.io/meson-build-xpack/blog/2022/03/24/meson-build-v0-60-3-1-released/
+# redirect_to: https://xpack-dev-tools.github.io/meson-build-xpack/blog/2022/03/24/meson-build-v0-60-3-1-released/
 
 comments: true
 

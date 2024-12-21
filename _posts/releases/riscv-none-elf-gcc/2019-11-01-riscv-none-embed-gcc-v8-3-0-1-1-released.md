@@ -22,7 +22,7 @@ tags:
   - riscv
   - riscv-none-embed-gcc
 
-redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2019/11/01/riscv-none-embed-gcc-v8-3-0-1-1-released
+# redirect_to: https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/blog/2019/11/01/riscv-none-embed-gcc-v8-3-0-1-1-released
 
 ---
 
