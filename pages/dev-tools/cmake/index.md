@@ -1,7 +1,7 @@
 ---
 
 title: The xPack CMake
-permalink: /cmake/
+permalink: /dev-tools/cmake/
 
 summary: "A binary distribution of CMake."
 

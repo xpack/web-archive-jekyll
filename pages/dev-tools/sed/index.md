@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU sed
-permalink: /sed/
+permalink: /dev-tools/sed/
 
 summary: "A binary distribution of GNU sed."
 

@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU Arm Embedded GCC
-permalink: /arm-none-eabi-gcc/support/
+permalink: /dev-tools/arm-none-eabi-gcc/support/
 
 comments: true
 

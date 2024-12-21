@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack Meson Build
-permalink: /meson-build/support/
+permalink: /dev-tools/meson-build/support/
 
 comments: true
 

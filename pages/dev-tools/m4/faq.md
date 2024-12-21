@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU M4 Frequently Asked Questions
-permalink: /m4/faq/
+permalink: /dev-tools/m4/faq/
 
 comments: true
 toc: false

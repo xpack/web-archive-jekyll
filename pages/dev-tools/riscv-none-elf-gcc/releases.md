@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU RISC-V Embedded GCC releases
-permalink: /riscv-none-elf-gcc/releases/
+permalink: /dev-tools/riscv-none-elf-gcc/releases/
 
 search: exclude
 github_editme: false

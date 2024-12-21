@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU Compiler Collection
-permalink: /gcc/support/
+permalink: /dev-tools/gcc/support/
 
 comments: true
 

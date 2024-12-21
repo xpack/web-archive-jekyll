@@ -1,7 +1,7 @@
 ---
 
 title: The xPack NixOS PatchELF releases
-permalink: /patchelf/releases/
+permalink: /dev-tools/patchelf/releases/
 
 search: exclude
 github_editme: false

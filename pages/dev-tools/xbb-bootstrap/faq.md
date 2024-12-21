@@ -1,7 +1,7 @@
 ---
 
 title: The xPack XBB Bootstrap Frequently Asked Questions
-permalink: /xbb-bootstrap/faq/
+permalink: /dev-tools/xbb-bootstrap/faq/
 
 comments: true
 toc: false

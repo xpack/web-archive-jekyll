@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU AArch64 Embedded GCC
-permalink: /aarch64-none-elf-gcc/support/
+permalink: /dev-tools/aarch64-none-elf-gcc/support/
 
 comments: true
 

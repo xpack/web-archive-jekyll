@@ -1,7 +1,7 @@
 ---
 
 title: The xPack WineHQ releases
-permalink: /wine/releases/
+permalink: /dev-tools/wine/releases/
 
 search: exclude
 github_editme: false

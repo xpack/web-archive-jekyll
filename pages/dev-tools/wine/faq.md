@@ -1,7 +1,7 @@
 ---
 
 title: The xPack WineHQ Frequently Asked Questions
-permalink: /wine/faq/
+permalink: /dev-tools/wine/faq/
 
 comments: true
 toc: false

@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU sed
-permalink: /sed/support/
+permalink: /dev-tools/sed/support/
 
 comments: true
 

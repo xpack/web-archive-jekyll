@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Ninja Build releases
-permalink: /ninja-build/releases/
+permalink: /dev-tools/ninja-build/releases/
 
 search: exclude
 github_editme: false

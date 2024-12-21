@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU Compiler Collection Frequently Asked Questions
-permalink: /gcc/faq/
+permalink: /dev-tools/gcc/faq/
 
 comments: true
 toc: false

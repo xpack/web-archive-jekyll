@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Windows Build Tools releases
-permalink: /windows-build-tools/releases/
+permalink: /dev-tools/windows-build-tools/releases/
 
 search: exclude
 github_editme: false

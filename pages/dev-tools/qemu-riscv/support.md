@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack QEMU RISC-V
-permalink: /qemu-riscv/support/
+permalink: /dev-tools/qemu-riscv/support/
 
 comments: true
 

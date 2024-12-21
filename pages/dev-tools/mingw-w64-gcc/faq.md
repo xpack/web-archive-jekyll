@@ -1,7 +1,7 @@
 ---
 
 title: The xPack MinGW-w64 GCC Frequently Asked Questions
-permalink: /mingw-w64-gcc/faq/
+permalink: /dev-tools/mingw-w64-gcc/faq/
 
 comments: true
 toc: false

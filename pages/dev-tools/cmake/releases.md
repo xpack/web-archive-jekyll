@@ -1,7 +1,7 @@
 ---
 
 title: The xPack CMake releases
-permalink: /cmake/releases/
+permalink: /dev-tools/cmake/releases/
 
 search: exclude
 github_editme: false

@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU sed releases
-permalink: /sed/releases/
+permalink: /dev-tools/sed/releases/
 
 search: exclude
 github_editme: false

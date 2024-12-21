@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU RISC-V Embedded GCC
-permalink: /riscv-none-elf-gcc/
+permalink: /dev-tools/riscv-none-elf-gcc/
 
 summary: "A binary distribution of GNU RISC-V Embedded GCC."
 

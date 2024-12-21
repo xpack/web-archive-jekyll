@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack QEMU RISC-V binaries
-permalink: /qemu-riscv/install/
+permalink: /dev-tools/qemu-riscv/install/
 
 summary: "The recommended method is via xpm."
 

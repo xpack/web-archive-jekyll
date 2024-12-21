@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack pkg-config binaries
-permalink: /pkg-config/install/
+permalink: /dev-tools/pkg-config/install/
 
 summary: "The recommended method is via xpm."
 

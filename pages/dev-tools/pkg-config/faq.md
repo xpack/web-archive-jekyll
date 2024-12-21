@@ -1,7 +1,7 @@
 ---
 
 title: The xPack pkg-config Frequently Asked Questions
-permalink: /pkg-config/faq/
+permalink: /dev-tools/pkg-config/faq/
 
 comments: true
 toc: false

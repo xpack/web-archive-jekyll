@@ -1,7 +1,7 @@
 ---
 
 title: The LLVM clang
-permalink: /clang/
+permalink: /dev-tools/clang/
 
 summary: "A binary distribution of the LLVM clang."
 keywords:

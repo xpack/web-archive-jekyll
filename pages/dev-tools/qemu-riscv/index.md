@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU RISC-V
-permalink: /qemu-riscv/
+permalink: /dev-tools/qemu-riscv/
 
 summary: "A binary distribution of QEMU RISC-V."
 

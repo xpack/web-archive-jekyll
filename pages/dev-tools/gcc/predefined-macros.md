@@ -1,7 +1,7 @@
 ---
 
 title: GNU predefined macros
-permalink: /gcc/predefined-macros/
+permalink: /dev-tools/gcc/predefined-macros/
 
 summary: "The preprocessosr built-in macros."
 keywords:

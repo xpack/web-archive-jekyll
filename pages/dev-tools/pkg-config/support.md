@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack pkg-config
-permalink: /pkg-config/support/
+permalink: /dev-tools/pkg-config/support/
 
 comments: true
 

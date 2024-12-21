@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack WineHQ
-permalink: /wine/support/
+permalink: /dev-tools/wine/support/
 
 comments: true
 

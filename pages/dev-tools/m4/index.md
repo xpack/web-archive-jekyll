@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU M4
-permalink: /m4/
+permalink: /dev-tools/m4/
 
 summary: "A binary distribution of GNU M4."
 

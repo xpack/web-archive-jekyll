@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack MinGW-w64 GCC binaries
-permalink: /mingw-w64-gcc/install/
+permalink: /dev-tools/mingw-w64-gcc/install/
 
 summary: "The recommended method is via xpm."
 

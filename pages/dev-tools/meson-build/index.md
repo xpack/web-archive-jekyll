@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Meson Build
-permalink: /meson-build/
+permalink: /dev-tools/meson-build/
 
 summary: "A binary distribution of Meson Build."
 

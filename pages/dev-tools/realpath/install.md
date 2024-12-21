@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack GNU realpath binaries
-permalink: /realpath/install/
+permalink: /dev-tools/realpath/install/
 
 summary: "The recommended method is via xpm."
 

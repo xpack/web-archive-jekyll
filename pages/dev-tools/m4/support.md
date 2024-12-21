@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU M4
-permalink: /m4/support/
+permalink: /dev-tools/m4/support/
 
 comments: true
 

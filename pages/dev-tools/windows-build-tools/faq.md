@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Windows Build Tools Frequently Asked Questions
-permalink: /windows-build-tools/faq/
+permalink: /dev-tools/windows-build-tools/faq/
 
 comments: true
 toc: false

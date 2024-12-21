@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU sed Frequently Asked Questions
-permalink: /sed/faq/
+permalink: /dev-tools/sed/faq/
 
 comments: true
 toc: false

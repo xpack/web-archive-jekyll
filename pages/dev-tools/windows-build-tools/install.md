@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack Windows Build Tools binaries
-permalink: /windows-build-tools/install/
+permalink: /dev-tools/windows-build-tools/install/
 
 summary: "The recommended method is via xpm."
 

@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU realpath
-permalink: /realpath/
+permalink: /dev-tools/realpath/
 
 summary: "A binary distribution of GNU realpath."
 

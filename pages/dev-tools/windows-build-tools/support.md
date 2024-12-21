@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack Windows Build Tools
-permalink: /windows-build-tools/support/
+permalink: /dev-tools/windows-build-tools/support/
 
 comments: true
 

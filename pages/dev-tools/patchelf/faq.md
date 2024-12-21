@@ -1,7 +1,7 @@
 ---
 
 title: The xPack NixOS PatchELF Frequently Asked Questions
-permalink: /patchelf/faq/
+permalink: /dev-tools/patchelf/faq/
 
 comments: true
 toc: false

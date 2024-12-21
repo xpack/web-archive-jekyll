@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Meson Build releases
-permalink: /meson-build/releases/
+permalink: /dev-tools/meson-build/releases/
 
 search: exclude
 github_editme: false

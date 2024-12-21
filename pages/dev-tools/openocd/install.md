@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack OpenOCD binaries
-permalink: /openocd/install/
+permalink: /dev-tools/openocd/install/
 
 summary: "The recommended method is via xpm."
 

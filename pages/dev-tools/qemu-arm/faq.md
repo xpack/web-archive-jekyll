@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU Arm Frequently Asked Questions
-permalink: /qemu-arm/faq/
+permalink: /dev-tools/qemu-arm/faq/
 
 comments: true
 toc: false

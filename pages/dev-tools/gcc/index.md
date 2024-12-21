@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU Compiler Collection (GCC)
-permalink: /gcc/
+permalink: /dev-tools/gcc/
 
 summary: "A binary distribution of the GNU Compiler Collection."
 keywords:

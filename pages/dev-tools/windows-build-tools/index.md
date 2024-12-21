@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Windows Build Tools
-permalink: /windows-build-tools/
+permalink: /dev-tools/windows-build-tools/
 
 summary: "A Windows binary distribution of GNU Make, to be used with Eclipse Embedded CDT."
 

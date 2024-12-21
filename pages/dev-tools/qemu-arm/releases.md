@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU Arm releases
-permalink: /qemu-arm/releases/
+permalink: /dev-tools/qemu-arm/releases/
 
 search: exclude
 github_editme: false

@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU Arm Embedded GCC
-permalink: /arm-none-eabi-gcc/
+permalink: /dev-tools/arm-none-eabi-gcc/
 
 summary: "A binary distribution of GNU Arm Embedded GCC."
 

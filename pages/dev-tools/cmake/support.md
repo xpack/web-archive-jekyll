@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack CMake
-permalink: /cmake/support/
+permalink: /dev-tools/cmake/support/
 
 comments: true
 

@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU AArch64 Embedded GCC Frequently Asked Questions
-permalink: /aarch64-none-elf-gcc/faq/
+permalink: /dev-tools/aarch64-none-elf-gcc/faq/
 
 comments: true
 toc: false

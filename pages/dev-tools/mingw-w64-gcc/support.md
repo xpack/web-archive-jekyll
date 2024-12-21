@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack MinGW-w64 GCC
-permalink: /mingw-w64-gcc/support/
+permalink: /dev-tools/mingw-w64-gcc/support/
 
 comments: true
 

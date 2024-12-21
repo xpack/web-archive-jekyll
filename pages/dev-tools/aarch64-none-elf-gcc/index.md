@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU AArch64 Embedded GCC
-permalink: /aarch64-none-elf-gcc/
+permalink: /dev-tools/aarch64-none-elf-gcc/
 
 summary: "A binary distribution of GNU AArch64 Embedded GCC."
 

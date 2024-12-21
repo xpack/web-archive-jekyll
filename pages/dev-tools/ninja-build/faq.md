@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Ninja Build Frequently Asked Questions
-permalink: /ninja-build/faq/
+permalink: /dev-tools/ninja-build/faq/
 
 comments: true
 toc: false

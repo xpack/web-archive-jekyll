@@ -1,7 +1,7 @@
 ---
 
 title: The xPack MinGW-w64 GCC
-permalink: /mingw-w64-gcc/
+permalink: /dev-tools/mingw-w64-gcc/
 
 summary: "A binary distribution of MinGW-w64 GCC."
 keywords:

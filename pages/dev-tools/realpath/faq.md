@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU realpath Frequently Asked Questions
-permalink: /realpath/faq/
+permalink: /dev-tools/realpath/faq/
 
 comments: true
 toc: false

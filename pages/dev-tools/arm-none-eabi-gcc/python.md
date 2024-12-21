@@ -1,7 +1,7 @@
 ---
 
 title: GDB with Python support
-permalink: /arm-none-eabi-gcc/python/
+permalink: /dev-tools/arm-none-eabi-gcc/python/
 
 summary: "Support for Python 2 and 3 is available in GDB."
 

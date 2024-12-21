@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack Meson Build binaries
-permalink: /meson-build/install/
+permalink: /dev-tools/meson-build/install/
 
 summary: "The recommended method is via xpm."
 

@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Ninja Build
-permalink: /ninja-build/
+permalink: /dev-tools/ninja-build/
 
 summary: "A binary distribution of Ninja Build."
 

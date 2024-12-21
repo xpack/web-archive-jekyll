@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack QEMU Arm
-permalink: /qemu-arm/support/
+permalink: /dev-tools/qemu-arm/support/
 
 comments: true
 

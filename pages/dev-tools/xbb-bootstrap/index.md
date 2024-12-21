@@ -1,7 +1,7 @@
 ---
 
 title: The xPack XBB Bootstrap - DEPRECATED
-permalink: /xbb-bootstrap/
+permalink: /dev-tools/xbb-bootstrap/
 
 summary: "A binary distribution of XBB Bootstrap."
 

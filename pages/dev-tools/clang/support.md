@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack LLVM clang
-permalink: /clang/support/
+permalink: /dev-tools/clang/support/
 
 comments: true
 

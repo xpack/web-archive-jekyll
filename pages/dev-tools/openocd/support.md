@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack OpenOCD?
-permalink: /openocd/support/
+permalink: /dev-tools/openocd/support/
 
 comments: true
 

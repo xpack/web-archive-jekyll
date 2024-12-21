@@ -1,7 +1,7 @@
 ---
 
 title: The LLVM clang Frequently Asked Questions
-permalink: /clang/faq/
+permalink: /dev-tools/clang/faq/
 
 comments: true
 toc: false

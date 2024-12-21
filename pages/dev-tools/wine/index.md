@@ -1,7 +1,7 @@
 ---
 
 title: The xPack WineHQ
-permalink: /wine/
+permalink: /dev-tools/wine/
 
 summary: "A binary distribution of WineHQ."
 

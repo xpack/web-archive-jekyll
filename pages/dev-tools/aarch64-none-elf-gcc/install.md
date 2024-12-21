@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack GNU AArch64 Embedded GCC binaries
-permalink: /aarch64-none-elf-gcc/install/
+permalink: /dev-tools/aarch64-none-elf-gcc/install/
 
 summary: "The recommended method is via xpm."
 

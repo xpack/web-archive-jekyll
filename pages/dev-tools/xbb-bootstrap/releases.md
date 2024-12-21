@@ -1,7 +1,7 @@
 ---
 
 title: The xPack XBB Bootstrap releases
-permalink: /xbb-bootstrap/releases/
+permalink: /dev-tools/xbb-bootstrap/releases/
 
 search: exclude
 github_editme: false

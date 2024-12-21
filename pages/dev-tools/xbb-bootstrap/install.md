@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack XBB Bootstrap binaries
-permalink: /xbb-bootstrap/install/
+permalink: /dev-tools/xbb-bootstrap/install/
 
 summary: "The recommended method is via xpm."
 

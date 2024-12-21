@@ -1,7 +1,7 @@
 ---
 
 title: The xPack pkg-config releases
-permalink: /pkg-config/releases/
+permalink: /dev-tools/pkg-config/releases/
 
 search: exclude
 github_editme: false

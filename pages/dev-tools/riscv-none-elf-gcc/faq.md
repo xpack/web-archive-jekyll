@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU RISC-V Embedded GCC Frequently Asked Questions
-permalink: /riscv-none-elf-gcc/faq/
+permalink: /dev-tools/riscv-none-elf-gcc/faq/
 
 comments: true
 toc: false

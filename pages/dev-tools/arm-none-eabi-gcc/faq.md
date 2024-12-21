@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU Arm Embedded GCC Frequently Asked Questions
-permalink: /arm-none-eabi-gcc/faq/
+permalink: /dev-tools/arm-none-eabi-gcc/faq/
 
 comments: true
 toc: false

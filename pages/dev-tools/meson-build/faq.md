@@ -1,7 +1,7 @@
 ---
 
 title: The xPack Meson Build Frequently Asked Questions
-permalink: /meson-build/faq/
+permalink: /dev-tools/meson-build/faq/
 
 comments: true
 toc: false

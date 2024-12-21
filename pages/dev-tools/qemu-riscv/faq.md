@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU RISC-V Frequently Asked Questions
-permalink: /qemu-riscv/faq/
+permalink: /dev-tools/qemu-riscv/faq/
 
 comments: true
 toc: false

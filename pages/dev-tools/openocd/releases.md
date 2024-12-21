@@ -1,7 +1,7 @@
 ---
 
 title: The xPack OpenOCD releases
-permalink: /openocd/releases/
+permalink: /dev-tools/openocd/releases/
 
 search: exclude
 github_editme: false

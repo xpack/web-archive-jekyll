@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack GNU M4 binaries
-permalink: /m4/install/
+permalink: /dev-tools/m4/install/
 
 summary: "The recommended method is via xpm."
 

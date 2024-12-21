@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack LLVM clang binaries
-permalink: /clang/install/
+permalink: /dev-tools/clang/install/
 
 summary: "The recommended method is via xpm."
 

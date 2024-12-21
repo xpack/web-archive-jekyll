@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack NixOS PatchELF binaries
-permalink: /patchelf/install/
+permalink: /dev-tools/patchelf/install/
 
 summary: "The recommended method is via xpm."
 

@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU RISC-V Embedded GCC
-permalink: /riscv-none-elf-gcc/support/
+permalink: /dev-tools/riscv-none-elf-gcc/support/
 
 comments: true
 

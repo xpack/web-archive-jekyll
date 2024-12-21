@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack Ninja Build
-permalink: /ninja-build/support/
+permalink: /dev-tools/ninja-build/support/
 
 comments: true
 

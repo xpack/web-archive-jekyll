@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU AArch64 Embedded GCC releases
-permalink: /aarch64-none-elf-gcc/releases/
+permalink: /dev-tools/aarch64-none-elf-gcc/releases/
 
 search: exclude
 github_editme: false

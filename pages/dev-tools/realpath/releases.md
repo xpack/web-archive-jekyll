@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU realpath releases
-permalink: /realpath/releases/
+permalink: /dev-tools/realpath/releases/
 
 search: exclude
 github_editme: false

@@ -1,7 +1,7 @@
 ---
 
 title: "DEPRECATED: The GNU MCU Eclipse QEMU"
-permalink: /qemu-arm/gnuarmeclipse/
+permalink: /dev-tools/qemu-arm/gnuarmeclipse/
 
 summary: "The initial custom QEMU used with Eclipse."
 

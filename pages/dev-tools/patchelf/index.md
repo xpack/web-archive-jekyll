@@ -1,7 +1,7 @@
 ---
 
 title: The xPack NixOS PatchELF
-permalink: /patchelf/
+permalink: /dev-tools/patchelf/
 
 summary: "A binary distribution of NixOS PatchELF."
 

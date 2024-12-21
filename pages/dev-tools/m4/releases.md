@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU M4 releases
-permalink: /m4/releases/
+permalink: /dev-tools/m4/releases/
 
 search: exclude
 github_editme: false

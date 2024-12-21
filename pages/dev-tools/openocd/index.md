@@ -1,7 +1,7 @@
 ---
 
 title: The xPack OpenOCD
-permalink: /openocd/
+permalink: /dev-tools/openocd/
 
 summary: "A binary distribution of OpenOCD."
 

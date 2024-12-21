@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU RISC-V releases
-permalink: /qemu-riscv/releases/
+permalink: /dev-tools/qemu-riscv/releases/
 
 search: exclude
 github_editme: false

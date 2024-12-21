@@ -1,7 +1,7 @@
 ---
 
 title: The xPack GNU Compiler Collection releases
-permalink: /gcc/releases/
+permalink: /dev-tools/gcc/releases/
 
 search: exclude
 github_editme: false

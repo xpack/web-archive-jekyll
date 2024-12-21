@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack GNU sed binaries
-permalink: /sed/install/
+permalink: /dev-tools/sed/install/
 
 summary: "The recommended method is via xpm."
 

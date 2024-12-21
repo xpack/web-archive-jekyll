@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack GNU Compiler Collection binaries
-permalink: /gcc/install/
+permalink: /dev-tools/gcc/install/
 
 summary: "The recommended method is via xpm."
 

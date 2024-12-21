@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack CMake binaries
-permalink: /cmake/install/
+permalink: /dev-tools/cmake/install/
 
 summary: "The recommended method is via xpm."
 

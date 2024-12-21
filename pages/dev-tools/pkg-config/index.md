@@ -1,7 +1,7 @@
 ---
 
 title: The xPack pkg-config
-permalink: /pkg-config/
+permalink: /dev-tools/pkg-config/
 
 summary: "A binary distribution of pkg-config."
 

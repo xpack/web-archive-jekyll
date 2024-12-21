@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack XBB Bootstrap
-permalink: /xbb-bootstrap/support/
+permalink: /dev-tools/xbb-bootstrap/support/
 
 comments: true
 

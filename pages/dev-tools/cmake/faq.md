@@ -1,7 +1,7 @@
 ---
 
 title: The xPack CMake Frequently Asked Questions
-permalink: /cmake/faq/
+permalink: /dev-tools/cmake/faq/
 
 comments: true
 toc: false

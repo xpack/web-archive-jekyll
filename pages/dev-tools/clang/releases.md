@@ -1,7 +1,7 @@
 ---
 
 title: The xPack LLVM clang releases
-permalink: /clang/releases/
+permalink: /dev-tools/clang/releases/
 
 search: exclude
 github_editme: false

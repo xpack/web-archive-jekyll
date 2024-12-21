@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack NixOS PatchELF
-permalink: /patchelf/support/
+permalink: /dev-tools/patchelf/support/
 
 comments: true
 

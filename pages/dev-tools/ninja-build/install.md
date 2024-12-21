@@ -1,7 +1,7 @@
 ---
 
 title: How to install the xPack Ninja Build binaries
-permalink: /ninja-build/install/
+permalink: /dev-tools/ninja-build/install/
 
 summary: "The recommended method is via xpm."
 

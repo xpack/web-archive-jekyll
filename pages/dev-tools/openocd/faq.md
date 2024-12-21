@@ -1,7 +1,7 @@
 ---
 
 title: The xPack OpenOCD Frequently Asked Questions
-permalink: /openocd/faq/
+permalink: /dev-tools/openocd/faq/
 
 comments: true
 toc: false

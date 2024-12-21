@@ -1,7 +1,7 @@
 ---
 
 title: The xPack QEMU Arm
-permalink: /qemu-arm/
+permalink: /dev-tools/qemu-arm/
 
 summary: "A binary distribution of QEMU Arm."
 

@@ -1,7 +1,7 @@
 ---
 
 title: How to get help for xPack GNU realpath
-permalink: /realpath/support/
+permalink: /dev-tools/realpath/support/
 
 comments: true
 

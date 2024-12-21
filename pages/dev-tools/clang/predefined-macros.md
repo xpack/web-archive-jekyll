@@ -1,7 +1,7 @@
 ---
 
 title: GNU predefined macros
-permalink: /clang/predefined-macros/
+permalink: /dev-tools/clang/predefined-macros/
 
 summary: "The preprocessor built-in macros."
 keywords:
