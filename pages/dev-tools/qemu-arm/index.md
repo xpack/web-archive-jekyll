@@ -39,7 +39,7 @@ Developer & maintainer pages:
 
 Starting with 2022, the custom QEMU known as `qemu-system-gnuarmeclipse`,
 used initially with Eclipse, was
-[deprecated]({{ site.baseurl }}/qemu-arm/gnuarmeclipse/),
+[deprecated]({{ site.baseurl }}/dev-tools/qemu-arm/gnuarmeclipse/),
 and the project was updated to use the current upstream sources.
 
 For compatibility reasons, `qemu-system-gnuarmeclipse` will still be
