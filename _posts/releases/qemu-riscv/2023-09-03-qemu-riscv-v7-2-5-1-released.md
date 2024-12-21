@@ -1,4 +1,5 @@
 ---
+
 title:  xPack QEMU RISC-V v7.2.5-1 released
 
 summary: "Version **7.2.5-1** is a new release; it follows the upstream QEMU release."

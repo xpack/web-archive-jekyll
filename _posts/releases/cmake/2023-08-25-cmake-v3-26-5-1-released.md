@@ -1,4 +1,5 @@
 ---
+
 title:  xPack CMake v3.26.5-1 released
 
 summary: "Version **3.26.5-1** is a new release; it follows the upstream release."

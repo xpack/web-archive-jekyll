@@ -1,4 +1,5 @@
 ---
+
 title:  xPack MinGW-w64 GCC v12.2.0-1 released
 
 summary: "Version **12.2.0-1** is a new release; it follows the official GNU GCC release."

@@ -1,4 +1,5 @@
 ---
+
 title:  xPack GNU Arm Embedded GCC v12.2.1-1.2 released
 
 summary: "Version **12.2.1-1.2** is a new release; it follows the Arm release."
