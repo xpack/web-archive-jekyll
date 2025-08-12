@@ -1,11 +1,11 @@
 ---
 
-title:  VS Code xPack extension v1.0.0 released
+title:  VS Code xPack extension v1.0.1 released
 sidebar: vscode
 
-summary: "Version **1.0.0** is the first major release of **ilg-vscode.xpack**; it updates the project to ES6 modules."
+summary: "Version **1.0.1** is the first major release of **ilg-vscode.xpack**; it updates the project to ES6 modules."
 
-version: 1.0.0
+version: 1.0.1
 
 date: 2024-02-20 14:47:00 +0300
 
