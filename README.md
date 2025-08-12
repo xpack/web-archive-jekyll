@@ -1,12 +1,12 @@
 [![Jekyll site CI](https://github.com/xpack/web-jekyll/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/xpack/web-jekyll/actions?query=workflow%3A%22Jekyll+site+CI%22)
 
-# The xPack web site - Jekyll sources
+# The xPack web site - Jekyll sources - archive
 
 ## Overview
 
 This GitHub project, available from
-[xpack/web-jekyll](https://github.com/xpack/web-jekyll), contains
-the source files used to generate the
+[xpack/web-archive-jekyll](https://github.com/xpack/web-archive-jekyll), contains
+the source files used to generate the initial (now deprected)
 **[xPack web site](https://xpack.github.io)**.
 
 ## Public URLs
@@ -15,7 +15,7 @@ The **xPack web site** is an organisation specific
 [GitHub Pages](https://pages.github.com) site, publicly available from:
 
 - https://xpack.github.io
-- https://xpack.github.io/web-preview/ (for preview of
+- https://xpack.github.io/web-archive-jekyll/ (for preview of
 new pages only, do not bookmark it)
 
 ## Jekyll
