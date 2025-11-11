@@ -54,12 +54,12 @@ is generally compatible with previous releases.
 
 ### Enhancements
 
-- none
+- [[#49](https://github.com/xpack/vscode-xpack-extension-ts/issues/49)]: for workspaces with multiple folders, group packages by folder names.
+- [[#50](https://github.com/xpack/vscode-xpack-extension-ts/issues/50)]: show npm scripts in the xpack tree.
 
 ### Other changes
 
-- [[#49](https://github.com/xpack/vscode-xpack-extension-ts/issues/49)]: for workspaces with multiple folders, group packages by folder names.
-- [[#50](https://github.com/xpack/vscode-xpack-extension-ts/issues/50)]: show npm scripts in the xpack tree.
+- none
 
 ### Known problems
 
