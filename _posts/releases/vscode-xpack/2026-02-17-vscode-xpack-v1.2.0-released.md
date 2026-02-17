@@ -1,13 +1,13 @@
 ---
 
-title:  VS Code xPack extension v1.1.0 released
+title:  VS Code xPack extension v1.2.0 released
 sidebar: vscode
 
-summary: "Version **1.1.0** is a new minor release of **ilg-vscode.xpack**; it improves the rendering of the actions/scripts tree."
+summary: "Version **1.2.0** is a new minor release of **ilg-vscode.xpack**; it fixes a bug when running npm scripts and adds support for xpm templates."
 
-version: 1.1.0
+version: 1.2.0
 
-date: 2025-11-11 23:38:00 +0200
+date: 2026-02-17 23:38:00 +0200
 
 comments: true
 
@@ -50,12 +50,11 @@ is generally compatible with previous releases.
 
 ### Bug fixes
 
-- none
+- [[#51](https://github.com/xpack/vscode-xpack-extension-ts/issues/51)]: the previous release added support for running npm scripts, but a bug prevented running some scripts in parallel; fixed.
 
 ### Enhancements
 
-- [[#49](https://github.com/xpack/vscode-xpack-extension-ts/issues/49)]: for workspaces with multiple folders, group packages by folder names.
-- [[#50](https://github.com/xpack/vscode-xpack-extension-ts/issues/50)]: show npm scripts in the xpack tree.
+- [[#52](https://github.com/xpack/vscode-xpack-extension-ts/issues/52)]: support for template bases xpm actions and build configurations was added.
 
 ### Other changes
 
